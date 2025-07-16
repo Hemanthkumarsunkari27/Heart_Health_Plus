@@ -9,8 +9,6 @@ Utilizes machine learning algorithms to assess the risk of heart disease based o
 
 ### 2. Dashboard
 A user-friendly interface to view health statistics, predictions, and recommendations at a glance.
-![image](https://github.com/user-attachments/assets/a1b539b0-4ade-4d5b-9c5b-e9a84d3c5c4f)
-
 
 ### 3. Additional Assessment Forms
 - **Health Assessment Forms**: Allows users to input their heart data to follow up with recommendations.
@@ -54,13 +52,13 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository**  
    Clone the project using:
    ```bash
-   git clone https://github.com/SrikarVeluvali/HeartHealth.git
+   https://github.com/Hemanthkumarsunkari27/Heart_Health_Plus.git
    ```
 
 2. **Navigate to the Data Folder**  
    Go to the `data` folder in the local repository:
    ```bash
-   cd HeartHealth/data
+   cd Heart_Health_Plus/data
    ```
 
 3. **Run the Jupyter Notebooks**  
